@@ -1,5 +1,6 @@
 name,source,gender,wikidata,type
 "Anna Bijnsstraat",wikidata,F,Q272497,way
+"Cecilia Callebertstraat",wikidata,F,Q2574283,way
 "Koningin Astridplein",wikidata,F,Q230238,way
 Mariastraat,wikidata,F,Q345,way
 "Simonne Brugghestraat",wikidata,F,Q1900797,way
@@ -13,6 +14,10 @@ Mariastraat,wikidata,F,Q345,way
 "Albrecht Rodenbachstraat",wikidata,M,Q2497011,way
 "Alfons Carlierstraat",wikidata,M,Q13428999,way
 "Ange Angillisstraat",wikidata,M,Q2600490,way
+Beheytstraat,wikidata,M,Q765290,way
+Blinde-Rodenbachstraat,wikidata,M,Q2029754,way
+Blommestraat,wikidata,M,Q1849666,way
+"Broeder Adolfstraat",wikidata,M,Q5571917,way
 "Constant Lievensstraat",wikidata,M,Q2994881,way
 "Désiré Mergaertstraat",wikidata,M,Q21638183,way
 "Guido Gezellelaan",wikidata,M,Q336977,way
