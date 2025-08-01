@@ -92,8 +92,7 @@ Borstelstraat,,,,way
 Boskantstraat,,,,way
 Bosmolensstraat,,,,way
 Bosstraat,,,,way
-"Bosstraat - Nachtegaalstraat",,,,way
-"Bosstraat - Waterstraat",,,,way
+"Bosstraat / Nachtegaalstraat",,,,way
 Bosweg,,,,way
 Botermarkt,,,,way
 Boterstraat,,,,way
@@ -128,6 +127,7 @@ Damberdstraat,,,,way
 Dammestraat-Oost,,,,way
 Dammestraat-West,,,,way
 "David Teniersstraat",,,,way
+"De Coninckplein",,,,way
 "De Gotelaar",,,,way
 "De Karre",,,,way
 "De Munt",,,,relation+way
@@ -154,6 +154,7 @@ Duivelsstraat,,,,way
 Duivigestraat,,,,way
 Duizendzinnenstraat,,,,way
 Dwarsweg,,,,way
+"Dwarsweg / Bollenstraat",,,,way
 Dweersstraat,,,,way
 "Edmond De Leyestraat",,,,way
 "Edmond Van der Scheldenstraat",,,,way
@@ -235,6 +236,8 @@ Heilige-Donatusstraat,,,,way
 Heirweg,,,,way
 Heirwegmeers,,,,way
 Hellestraat,,,,way
+"Hellestraat / Meiboomstraat",,,,way
+"Hellestraat / Roeselarestraat",,,,way
 "Henri Jonckheerestraat",,,,way
 Herdersstraat,,,,way
 Heropbouwstraat,,,,way
@@ -253,7 +256,6 @@ Hoendererf,,,,way
 Hoge-Barrierestraat,,,,way
 Honzebroekstraat,,,,way
 Hoogbeverenstraat,,,,way
-"Hoogbeverenstraat - Kortekeerstraat",,,,way
 Hoogstraat,,,,way
 Hooistraat,,,,way
 Hortensiastraat,,,,way
@@ -358,6 +360,7 @@ Klokkeputstraat,,,,way
 Kloosterstraat,,,,way
 Knapenstraat,,,,way
 Knokuilstraat,,,,way
+"Knollingstraat / Izegemseaardeweg",,,,way
 Koekuitstraat,,,,way
 Koestraat,,,,way
 Kokelaarstraat,,,,way
@@ -371,6 +374,7 @@ Koolzaadstraat,,,,way
 Koornstraat,,,,way
 Korenbloemstraat,,,,way
 Kortekeerstraat,,,,way
+"Kortekeerstraat / Hoogbeverenstraat",,,,way
 Kortewagenstraat,,,,way
 Kortrijksestraat,,,,way
 Kouterweg,,,,way
@@ -571,7 +575,7 @@ Schaapbruggestraat,,,,way
 Schaaphofweg,,,,way
 Schaapsstraat,,,,way
 Scharestraat,,,,way
-Scheidstraat,,,,way
+"Scheidstraat / Tasschestraat",,,,way
 Schellebellestraat,,,,way
 Scherminkelstraat,,,,way
 "Schiervelde mtb",,,,way
@@ -642,7 +646,6 @@ Stokerijstraat,,,,way
 Stormstraat,,,,way
 Stroroute,,,,way
 Talpensdreef,,,,way
-Tasschestraat,,,,way
 Tasscheweg,,,,way
 "Te Groeneweghe",,,,way
 Teerlingstraat,,,,way
@@ -701,6 +704,7 @@ Wallenstraat,,,,way
 Warellesgoed,,,,way
 Waterdam,,,,way
 Waterstraat,,,,way
+"Waterstraat / Bosstraat",,,,way
 Watertorenstraat,,,,way
 Werfwegel,,,,way
 Wervikhovestraat,,,,way
