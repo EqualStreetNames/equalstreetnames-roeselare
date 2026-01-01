@@ -64,7 +64,7 @@ Botteliersstraat,,,,way
 Braamstraat,,,,way
 Brabantstraat,,,,way
 Bruanestraat,,,,way
-Bunderstraat,,,,relation
+Bunderstraat,,,,way
 Burgemeestersstraat,,,,way
 Cederstraat,,,,way
 "Chemin 20",,,,way
@@ -73,7 +73,6 @@ Cichoreistraat,,,,way
 Cipressenstraat,,,,way
 Citroenstraat,,,,way
 Claeyssensstraat,,,,way
-Colliemolenstraat,,,,way
 Colliensstraat,,,,way
 Collievijveraardeweg,,,,way
 Collievijverbeekpad,,,,way
@@ -85,13 +84,12 @@ Collievijverpark,,,,way
 "Constantijn Duboisstraat",,,,way
 Cyperstraat,,,,way
 Dadizeleleenstraat,,,,way
-Daglandstraat,,,,relation+way
+Daglandstraat,,,,way
 Dalstraat,,,,way
 Damberdstraat,,,,way
 Dammestraat-Oost,,,,way
 Dammestraat-West,,,,way
 "David Teniersstraat",,,,way
-"De Coninckplein",,,,way
 "De Gotelaar",,,,way
 "De Karre",,,,way
 "De Munt",,,,relation+way
@@ -104,17 +102,17 @@ Deltalaan,,,,way
 Dennenstraat,,,,way
 "Désiré Van de Wallestraat",,,,way
 "Diederik van Assenedestraat",,,,way
-Diksmuidesteenweg,,,,way
 Diswegel,,,,way
 "Dokter Delbekestraat",,,,way
 "Domien Craccostraat",,,,way
 "Dominiek Saviostraat",,,,way
 Domstraat,,,,way
-Doorgangstraat,,,,way
+Doorgangsstraat,,,,way
 Drafstraat,,,,way
 Druivelaarstraat,,,,way
 Duivelshoekstraat,,,,way
 Duivelsstraat,,,,way
+Duivestraat,,,,way
 Duivigestraat,,,,way
 Duizendzinnenstraat,,,,way
 Dwarsweg,,,,way
@@ -125,10 +123,10 @@ Eikstraat,,,,way
 Elckerlycstraat,,,,way
 Elf-Novemberstraat,,,,way
 Elsbergestraat,,,,way
-Elzenstraat,,,,relation
+Elzenstraat,,,,way
 Erwtenstraat,,,,way
 Esdoornstraat,,,,relation
-Essenstraat,,,,relation
+Essenstraat,,,,way
 "Eugeen Van Oyestraat",,,,way
 Fabrieksstraat,,,,way
 Fazantendreef,,,,way
@@ -160,7 +158,7 @@ Gitsestraat,,,,way
 Gladiolenstraat,,,,way
 Glazeniersstraat,,,,way
 Godshuislaan,,,,way
-Goudregenstraat,,,,relation
+Goudenregenstraat,,,,way
 "Graaf de Limburg Stirumlaan",,,,way
 "Graaf de Thienneslaan",,,,way
 Graafschapsstraat,,,,way
@@ -176,11 +174,10 @@ Grote-Bassinstraat,,,,way
 Gruyaertshof,,,,way
 "Gryspeerdts Hof",,,,way
 Gudrunplein,,,,way
-"Guido Gezellestraat",,,,way
 Gulden-Sporenstraat,,,,way
 Haakwegel,,,,way
 Hadewijchstraat,,,,way
-Hagedoornstraat,,,,relation
+Hagedoornstraat,,,,way
 Hagedoornweg,,,,way
 Hagewegel,,,,way
 Hammestraat,,,,way
@@ -226,7 +223,6 @@ Houtgrachtstraat,,,,way
 Houtskoolstraat,,,,way
 Hoveniersstraat,,,,way
 Huidevetterijstraat,,,,way
-Huisdrevestraat,,,,way
 IJzerstraat,,,,way
 Ieperseaardeweg,,,,way
 Iepersestraat,,,,way
@@ -368,7 +364,7 @@ Lindenkouter,,,,way
 Lindenstraat,,,,way
 Linkervaartoever,,,,way
 "Lodewijk van Velthemstraat",,,,way
-Lorkenstraat,,,,relation
+Lorkenstraat,,,,way
 "Louis Leynstraat",,,,way
 "Louis Tantstraat",,,,way
 "Lucien Bockstaelestraat",,,,way
@@ -389,7 +385,7 @@ Maria's-Lindestraat,,,,way
 "Marie-Louise Demeesterplein",,,,way
 Markette,,,,way
 "Maximiliaan Demeulenaerestraat",,,,way
-Meelbessenstraat,,,,relation
+Meelbessenstraat,,,,way
 Meelstraat,,,,way
 Meenseheirweg,,,,way
 Meensesteenweg,,,,way
@@ -474,6 +470,7 @@ Pauwelstraat,,,,way
 Pauwstraat,,,,way
 Peenemolenweg,,,,way
 Penemolenstraat,,,,way
+Penninckweg,,,,way
 Pennoenstraat,,,,way
 Perelaarstraat,,,,way
 "Peter Benoitstraat",,,,way
@@ -518,7 +515,6 @@ Rode-Beukenstraat,,,,way
 Rode-Kruisstraat,,,,way
 Roelensbeekstraat,,,,way
 Roeselare,,,,way
-Roeselarestraat,,,,way
 Roggestraat,,,,way
 Rolariusweg,,,,way
 Rollegemsestraat,,,,way
@@ -677,7 +673,7 @@ Weverijstraat,,,,way
 Wezestraat,,,,way
 Wichelenstraat,,,,way
 Wijnendalekouter,,,,way
-Wijngaardstraat,,,,relation
+Wijngaardstraat,,,,way
 Wilde-Kastanjestraat,,,,way
 Wilgenstraat,,,,way
 "Willem van Saeftingenstraat",,,,way
