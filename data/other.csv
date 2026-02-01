@@ -30,7 +30,7 @@ Bergeikenstraat,,,,way
 Bergmolenstraat,,,,way
 Bergstraat,,,,way
 Berkenstraat,,,,way
-Beukenstraat,,,,relation
+Beukenstraat,,,,way
 Beursgoed,,,,way
 Beurtkaai,,,,way
 Beverseaardeweg,,,,way
@@ -125,7 +125,7 @@ Elf-Novemberstraat,,,,way
 Elsbergestraat,,,,way
 Elzenstraat,,,,way
 Erwtenstraat,,,,way
-Esdoornstraat,,,,relation
+Esdoornstraat,,,,way
 Essenstraat,,,,way
 "Eugeen Van Oyestraat",,,,way
 Fabrieksstraat,,,,way
@@ -215,7 +215,6 @@ Hoendererf,,,,way
 "Hof van Deynze",,,,way
 Hoge-Barrierestraat,,,,way
 Honzebroekstraat,,,,way
-Hoogbeverenstraat,,,,way
 Hoogstraat,,,,way
 Hooistraat,,,,way
 Hortensiastraat,,,,way
@@ -232,6 +231,7 @@ Infanteriestraat,,,,way
 "Irma Speybrouckstraat",,,,way
 Ittrekapelstraat,,,,way
 Izegemseaardeweg,,,,way
+"Izegemseaardeweg / Tasschestraat",,,,way
 Izegemsestraat,,,,way
 Jachthoornstraat,,,,way
 "Jacob van Arteveldestraat",,,,way
@@ -266,7 +266,6 @@ Kachtemsestraat,,,,way
 Kalkenstraat,,,,way
 Kalverstraat,,,,way
 Kampioenstraat,,,,way
-"Kannunik Duboisstraat",,,,way
 Kantinestraat,,,,way
 Kantwerksterstraat,,,,way
 "Kanunnik Duboisstraat",,,,way
@@ -319,6 +318,7 @@ Klokkeputstraat,,,,way
 Kloosterstraat,,,,way
 Knapenstraat,,,,way
 Knokuilstraat,,,,way
+Knollingstraat,,,,way
 "Knollingstraat / Izegemseaardeweg",,,,way
 Koekuitstraat,,,,way
 Koestraat,,,,way
@@ -333,7 +333,6 @@ Koolzaadstraat,,,,way
 Koornstraat,,,,way
 Korenbloemstraat,,,,way
 Kortekeerstraat,,,,way
-"Kortekeerstraat / Hoogbeverenstraat",,,,way
 Kortewagenstraat,,,,way
 Kortrijksestraat,,,,way
 Kouterweg,,,,way
@@ -382,7 +381,6 @@ Marelput,,,,way
 Maria's-Lindestraat,,,,way
 "Marie Jeanne Bultestraat",,,,way
 "Marie-Louise De Meesterplein",,,,way
-"Marie-Louise Demeesterplein",,,,way
 Markette,,,,way
 "Maximiliaan Demeulenaerestraat",,,,way
 Meelbessenstraat,,,,way
@@ -398,7 +396,7 @@ Meiboomstraat,,,,way
 Meidoornstraat,,,,way
 Meikeverstraat,,,,way
 Melkweg,,,,way
-Menenpoortstraat,,,,relation
+Menenpoortstraat,,,,way
 Mergelweg,,,,way
 Middenstraat,,,,way
 Moeringstraat,,,,way
@@ -476,6 +474,7 @@ Perelaarstraat,,,,way
 "Peter Benoitstraat",,,,way
 "Pieter Breughelstraat",,,,way
 "Pieter Derluynstraat",,,,way
+"Pieter Pauwel Rubensplein",,,,way
 "Pieter Staessensstraat",,,,way
 "Pieter de Coninckstraat",,,,way
 Pildersweg,,,,way
@@ -506,7 +505,6 @@ Rennevoordestraat,,,,way
 Renpaardestraat,,,,way
 Repelstraat,,,,way
 Riddersstraat,,,,way
-Rijksweg,,,,way
 Rijselstraat,,,,way
 Robaardstraat,,,,way
 "Robert De Manstraat",,,,way
@@ -527,13 +525,12 @@ Rozenstraat,,,,way
 Ruiterijstraat,,,,way
 Rumbeeksegravier,,,,way
 Rumbeeksesteenweg,,,,way
-Runenstraat,,,,relation+way
+Runenstraat,,,,way
 Ryffelaerestraat,,,,way
 Schaapbruggestraat,,,,way
 Schaaphofweg,,,,way
 Schaapsstraat,,,,way
 Scharestraat,,,,way
-"Scheidstraat / Tasschestraat",,,,way
 Schellebellestraat,,,,way
 Scherminkelstraat,,,,way
 "Schiervelde mtb",,,,way
@@ -634,7 +631,7 @@ Veldmolenstraat,,,,way
 Veldstraat,,,,way
 Ventweg-Noord,,,,way
 Ventweg-Zuid,,,,way
-Verbrandhofstraat,,,,relation+way
+Verbrandhofstraat,,,,way
 Vercamershof,,,,way
 Verwerijstraat,,,,way
 "Victoria Courtensstraat",,,,way
